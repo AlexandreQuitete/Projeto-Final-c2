@@ -1,0 +1,23 @@
+bodymargin:0;
+.area-topo{
+    width:100%;
+    height: 40px;
+    border:2px solid blue;
+    background: #f0f0f0;
+    
+    
+}
+.caixa-menus{
+display:flex ;
+width: 70%;
+height: 40px;
+border: 1px solid green;
+margin: auto;
+}
+.area-g2{
+    width: 100%;
+    height: 70px;
+    background-color: brown;
+}
+
+}
